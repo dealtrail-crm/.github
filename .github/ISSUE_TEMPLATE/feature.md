@@ -7,6 +7,7 @@ type: Feature
 <!--
 제목 규칙: 코드가 바뀌는 레포에 따라 접두어를 붙인다.
   [FE] web 레포 / [BE] api 레포 / [INFRA] infra 레포
+  [DOCS] docs 레포 (API 계약·디자인 등 문서 작업)
   예: [BE] Lead 전환 API 구현
 
 생성 후 지정할 것: 라벨 area:*, priority:* / Milestone / 상위 Epic 이슈(docs 레포) 연결
